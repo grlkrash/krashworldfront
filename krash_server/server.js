@@ -29,7 +29,7 @@ app.use(bodyParser.urlencoded({ extended: false }))
 // parse application/json
 app.use(bodyParser.json())
 
-mongoose.connect(`mongodb+srv://grl:$a5uMo67swtZLqT2r@cluster0.822ss2p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`, {
+mongoose.connect('mongodb+srv://grl:$a5uMo67swtZLqT2r@cluster0.822ss2p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
