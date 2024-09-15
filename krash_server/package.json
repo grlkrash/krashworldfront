@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@zoralabs/1155-deployments": "^0.0.13",
+    "alchemy-sdk": "^3.4.1",
+    "bignumber": "^1.1.0",
+    "bignumber.js": "^9.1.2",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ethers": "5.4",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
