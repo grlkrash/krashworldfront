@@ -173,3 +173,5 @@ app.listen(PORT, () => {
 });
 
 
+npm install
+npm run build
