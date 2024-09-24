@@ -1,0 +1,15 @@
+[
+  {
+    "type": "function",
+    "name": "contractName",
+    "inputs": [],
+    "outputs": [
+      {
+        "name": "",
+        "type": "string",
+        "internalType": "string"
+      }
+    ],
+    "stateMutability": "nonpayable"
+  }
+]
