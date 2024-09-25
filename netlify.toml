@@ -1,2 +1,5 @@
 [build.environment]
 GIT_SSH_COMMAND = "ssh -i $NETLIFY_SSH_KEY"
+[build]
+command = "next build"
+publish = "out"
